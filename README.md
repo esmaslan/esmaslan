@@ -10,6 +10,7 @@
 ![Appium](https://img.shields.io/badge/APPIUM-pink?style=for-the-badge&logoColor=green)![Selenium](https://img.shields.io/badge/SELENIUM-blue?style=for-the-badge&logo=selenium)
 ![junit](https://img.shields.io/badge/JUNIT5-green?style=for-the-badge&logo=junit5)
 ![cucumber](https://img.shields.io/badge/CUCUMBER-yellow?style=for-the-badge&logo=cucumber)
+![jira](https://img.shields.io/badge/JIRA-black?style=for-the-badge&logo=jira)
 
 
 # 📊 GitHub Stats:
